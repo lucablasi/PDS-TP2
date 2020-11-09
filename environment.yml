@@ -1,0 +1,8 @@
+name: PDS - TP2
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - plotly
+  - math
+  - matplotlib
